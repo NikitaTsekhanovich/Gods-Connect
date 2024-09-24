@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e39bbed41eadf4438c0d61161dbce4a, type: 3}
+  m_Name: 6LightBlue
+  m_EditorClassIdentifier: 
+  _index: 5
+  _characterSprite: {fileID: 21300000, guid: 87af1e412101b604d81d326a15e1aba9, type: 3}
+  _characterName: Poseidon
+  _price: 500
+  _abilityData: {fileID: 11400000, guid: de23d3d45fb60ce4e834a239fb7fec11, type: 2}
+  _itemType: 5
+  _prefabAbility: {fileID: 6935423256809528224, guid: 11de9594ee6bd03448093fe9c308c527, type: 3}
+  <NotReleased>k__BackingField: 0

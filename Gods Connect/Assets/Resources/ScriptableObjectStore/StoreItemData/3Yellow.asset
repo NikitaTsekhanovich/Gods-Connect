@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e39bbed41eadf4438c0d61161dbce4a, type: 3}
+  m_Name: 3Yellow
+  m_EditorClassIdentifier: 
+  _index: 2
+  _characterSprite: {fileID: 21300000, guid: a38d98e57e51a6a439261e975b5ab8a4, type: 3}
+  _characterName: Ray
+  _price: 150
+  _abilityData: {fileID: 11400000, guid: 49091821fc76b664db364508e89ba8a5, type: 2}
+  _itemType: 2
+  _prefabAbility: {fileID: 6935423256809528224, guid: c6987875c55a3bd4db01caf6b9b683a1, type: 3}
+  <NotReleased>k__BackingField: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e39bbed41eadf4438c0d61161dbce4a, type: 3}
+  m_Name: 2Blue
+  m_EditorClassIdentifier: 
+  _index: 1
+  _characterSprite: {fileID: 21300000, guid: 72a45e4276dbf374f82dc86523a0e8af, type: 3}
+  _characterName: Ares
+  _price: 50
+  _abilityData: {fileID: 11400000, guid: 1ab7bf88f06e9ff41bb8bfd6ea6547c6, type: 2}
+  _itemType: 1
+  _prefabAbility: {fileID: 6935423256809528224, guid: 9907ff88ee2944c4fa924b7d0471d568, type: 3}
+  <NotReleased>k__BackingField: 0
