@@ -21,6 +21,8 @@
 - https://github.com/Leopotam/ecs 
 - https://github.com/voody2506/UniLeo.git
 
+Уровни и скины в магазине реализованы через scriptable object, что позволяет быстро и легко добавлять новые данные в игру, при этом не переписывая код.
+
 # Скриншоты
 ![Image Sequence_057_0000](https://github.com/user-attachments/assets/9f7906fc-f631-4bc4-9718-66968cc545b8)
 ![Image Sequence_056_0000](https://github.com/user-attachments/assets/67ff637b-59f4-4b86-9a77-e22bedc774a3)
