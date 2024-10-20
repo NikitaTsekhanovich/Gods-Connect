@@ -17,6 +17,9 @@
 # Особенности
 
 Использовал впервые ECS паттерн, а именно LeoECS фреймворк. Также, использовал провайдер для компонентов UniLeo. 
+Для тестирования проекта нужно установить следующие фреймворки:
+- https://github.com/Leopotam/ecs 
+- https://github.com/voody2506/UniLeo.git
 
 # Скриншоты
 ![Image Sequence_057_0000](https://github.com/user-attachments/assets/9f7906fc-f631-4bc4-9718-66968cc545b8)
